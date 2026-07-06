@@ -1,0 +1,6 @@
+# Only track the rendered docs/ output; everything else stays local
+/*
+!/docs/
+!/.gitignore
+
+.DS_Store
