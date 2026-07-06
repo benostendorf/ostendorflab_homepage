@@ -1,0 +1,497 @@
+/* css styles */
+
+/* News listing — constrain width */
+.news-listing-page #quarto-content {
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+/* Funder logo gallery — 4 per row, uniform bounding box */
+.funder-gallery p {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.funder-gallery p a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 110px;
+  padding: 0.25rem 0.5rem;
+}
+
+.funder-gallery p a img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  filter: grayscale(100%);
+  opacity: 0.65;
+  transition: filter 0.2s ease, opacity 0.2s ease;
+}
+
+.funder-gallery p a:hover img {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .funder-gallery p {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Contact form */
+.contact-form {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contact-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.contact-form-group label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.contact-form-group input,
+.contact-form-group textarea {
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.95rem;
+  font-family: 'PT Sans', sans-serif;
+  width: 100%;
+  transition: border-color 0.15s ease;
+}
+
+.contact-form-group input:focus,
+.contact-form-group textarea:focus {
+  outline: none;
+  border-color: #0B219C;
+  box-shadow: 0 0 0 2px rgba(11,33,156,0.15);
+}
+
+.contact-form button[type="submit"] {
+  align-self: flex-start;
+  background-color: #0B219C;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.55rem 1.4rem;
+  font-size: 0.95rem;
+  font-family: 'PT Sans', sans-serif;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.contact-form button[type="submit"]:hover {
+  background-color: #091a7a;
+}
+
+/* Contact page — two-column layout */
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.6fr;
+  gap: 2.5rem;
+  align-items: start;
+  margin-top: 2rem;
+}
+
+.contact-details p {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.4rem;
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
+}
+
+.contact-details i {
+  flex-shrink: 0;
+  font-size: 1.1rem;
+  margin-top: 0.15rem;
+  color: #0B219C;
+}
+
+@media (max-width: 768px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Research project detail pages — centered title */
+.research-project-page .quarto-title h1 {
+  text-align: center;
+}
+
+/* Research projects — card grid */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.research-card {
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: box-shadow 0.2s ease;
+}
+
+.research-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+.research-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  background: #fff;
+  display: block;
+}
+
+.research-card h3 {
+  font-size: 1.1rem;
+  margin: 1rem 1rem 0.5rem;
+}
+
+.research-card p {
+  font-size: 0.9rem;
+  padding: 0 1rem 1rem;
+  margin: 0;
+  color: #444;
+}
+
+@media (max-width: 768px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Google Font: PT Sans */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body, .navbar, h1, h2, h3, h4, h5, h6, p, a, li {
+  font-family: 'PT Sans', sans-serif;
+}
+
+/* Navbar: enlarge logo */
+.navbar-brand img {
+  height: 43px !important;
+  max-height: 43px !important;
+  width: auto;
+}
+
+/* Navbar: link text */
+.navbar .nav-link {
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* Navbar: yellow highlight on active/hover */
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+  color: #ffeb3b !important;
+}
+
+/* Hero banner on home page */
+.hero-banner {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-height: 420px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.hero-banner img {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+/* Home page layout — spacer grows, support pins to bottom */
+.home-body {
+  display: flex;
+  flex-direction: column;
+  /* navbar ~56px + banner 420px + quarto padding ~30px + footer ~60px */
+  min-height: calc(100vh - 566px);
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.home-welcome {
+  padding: 2.5rem 0 1.5rem;
+}
+
+.home-spacer {
+  flex: 1;
+  min-height: 1.5rem;
+}
+
+.home-support {
+  padding: 1.5rem 0 2rem;
+}
+
+.home-welcome h2,
+.home-support h2 {
+  text-align: center;
+}
+
+/* Funding field in people listing — hide label, style value */
+#listing-current-members .card-other-values {
+  margin-top: 0.15rem;
+}
+
+#listing-current-members .card-other-values td:first-child {
+  display: none;
+}
+
+#listing-current-members .card-other-values td.funding {
+  font-size: 0.78rem;
+  color: #6c757d;
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+/* People listing — name colour matches header */
+#listing-current-members .listing-title {
+  color: #0B219C;
+}
+
+/* People listing — remove card box, round images */
+#listing-current-members .quarto-grid-item.card {
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+#listing-current-members img.thumbnail-image {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 175px !important;
+  height: 175px !important;
+  display: block;
+  margin: 1rem auto 0;
+}
+
+/* Education list — matches wowchemy ul-edu layout */
+ul.ul-edu {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.ul-edu li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  padding-bottom: 0.5rem;
+}
+
+ul.ul-edu li .bi-mortarboard-fill {
+  flex-shrink: 0;
+  margin-top: 0.15rem;
+}
+
+ul.ul-edu li .description p {
+  margin: 0;
+}
+
+ul.ul-edu li .description p.course {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.75rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* Font Awesome 6 Brands — for icons not in Bootstrap Icons (ORCID, Google Scholar) */
+@font-face {
+  font-family: "FA Brands";
+  font-style: normal;
+  font-weight: 400;
+  src: url("libs/fontawesome/fa-brands-400.woff2") format("woff2"),
+       url("libs/fontawesome/fa-brands-400.ttf") format("truetype");
+}
+
+.bi.bi-orcid::before {
+  font-family: "FA Brands" !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  content: "\f8d2";
+}
+
+.bi.bi-google-scholar::before {
+  font-family: bootstrap-icons !important;
+  content: "\f6fe";
+}
+
+/* ── Publications page ─────────────────────────────────────────────────────── */
+.publications-page #quarto-content {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.pub-list {
+  margin-top: 1rem;
+}
+
+.pub-year {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #0B219C;
+  border-bottom: 2px solid #0B219C;
+  padding-bottom: 0.3rem;
+  margin: 2.5rem 0 1.2rem;
+}
+
+.pub-year:first-child {
+  margin-top: 0.5rem;
+}
+
+.pub-entry {
+  margin-bottom: 1.6rem;
+  padding-bottom: 1.6rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.pub-entry:last-child {
+  border-bottom: none;
+}
+
+.pub-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 0.3rem;
+}
+
+.pub-title a {
+  color: #212529;
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  color: #0B219C;
+  text-decoration: underline;
+}
+
+.pub-authors {
+  font-size: 0.88rem;
+  color: #444;
+  margin-bottom: 0.2rem;
+  line-height: 1.5;
+}
+
+.pub-lab-member {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.pub-meta {
+  font-size: 0.88rem;
+  color: #666;
+  margin-bottom: 0.4rem;
+}
+
+.pub-footer {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 0.4rem;
+}
+
+.pub-link-btn {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  font-family: inherit;
+  padding: 0.15rem 0.55rem;
+  border-radius: 3px;
+  border: 1px solid #aaa;
+  background: none;
+  color: #555;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.pub-link-btn:hover {
+  border-color: #0B219C;
+  color: #0B219C;
+}
+
+.pub-note {
+  font-size: 0.78rem;
+  color: #888;
+  margin-top: 0.3rem;
+  font-style: italic;
+}
+
+/* Publication thumbnail layout */
+.pub-entry.pub-has-img {
+  display: flex;
+  gap: 1.2rem;
+  align-items: flex-start;
+}
+
+.pub-img {
+  width: 190px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+  border: 1px solid #dee2e6;
+}
+
+.pub-content {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Superscript for * (co-first authorship) */
+.pub-sup {
+  font-size: 0.7em;
+  font-weight: 700;
+  color: #0B219C;
+  line-height: 0;
+}
+
+/* Inline envelope for co-corresponding authorship */
+.pub-corr-mark {
+  font-size: 0.8em;
+  color: #0B219C;
+  margin-left: 0.15em;
+  vertical-align: middle;
+}
+
+/* Legend */
+.pub-legend {
+  font-size: 0.82rem;
+  color: #777;
+  margin-bottom: 1.5rem;
+  margin-top: 0.25rem;
+}
