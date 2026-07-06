@@ -458,8 +458,8 @@ ul.ul-edu li .description p.institution {
 }
 
 .pub-img {
-  width: 130px;
-  height: 160px;
+  width: 160px;
+  height: 195px;
   object-fit: cover;
   border-radius: 4px;
   flex-shrink: 0;
