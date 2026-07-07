@@ -154,39 +154,74 @@
     "text": "Alumni"
   },
   {
-    "objectID": "news/posts/2026-02-10-jem/index.html",
-    "href": "news/posts/2026-02-10-jem/index.html",
-    "title": "Our paper on LXR agonism in T cell activation is out in JEM!",
+    "objectID": "news/posts/2026-06-15-jerusalem/index.html",
+    "href": "news/posts/2026-06-15-jerusalem/index.html",
+    "title": "Ben to speak at the joint Berlin-Jerusalem Symposium",
     "section": "",
-    "text": "We’re thrilled that our paper on the role of Liver-X-receptors in T cell effector function is out today in JEM. This was a project that started in Sohail Tavazoie’s lab in New York and that we completed in Berlin. It shows that pharmacological activation of LXRs puts T cells in a state that makes them more ready to adopt effector functions upon activation — an important trait in fighting cancer. Consistently, LXR agonism was efficient in driving anti-tumor immunity. You can read more about it here."
+    "text": "Ben will speak about our project on LXR activation in T cells to drive a pre-effector state to enhance anti-tumor immunity at the first joint Berlin-Jerusalem symposium at BIMSB in Berlin (June 24-26)."
   },
   {
-    "objectID": "news/posts/2024-09-24-olivia/index.html",
-    "href": "news/posts/2024-09-24-olivia/index.html",
-    "title": "Congrats to Olivia’s MSc defense!",
+    "objectID": "news/posts/2025-05-24-updates/index.html",
+    "href": "news/posts/2025-05-24-updates/index.html",
+    "title": "Lab updates and our first paper!",
     "section": "",
-    "text": "Olivia passed her MSc defense with flying colors 🎉🍾 All the best for your future scientific journey, it was a pleasure to have you in the lab!"
+    "text": "Many good news over the past few months, including our first paper, now published in Nucleic Acids Research! 🎉\nIt’s been a while, and so many news have accumulated over the past few months:\n\nWe did our first lab retreat back in last fall and had a blast canoeing the Spree\nSvenja and Beke joined the lab, welcome!\nBen gave a few talks, including at the 22nd International AEK Cancer Congress here in Berlin back in March\nLennart presented his project at Tumor Immunology Meets Oncology XIX 2025 and won a prize for his talk, congrats!\nAs a major milestone, the first paper that started here in the lab is published 🎉🙌! Our computational tool BEscreen came out in Nucleic Acids Research a few days ago. We’ll write a whole post to describe in more detail what BEscreen is about. Huge congratulations to Philipp for spearheading this project and also to Shuang!"
   },
   {
-    "objectID": "news/posts/2023-12-05-developments/index.html",
-    "href": "news/posts/2023-12-05-developments/index.html",
-    "title": "High time to catch up with lab news",
+    "objectID": "news/posts/2023-12-12-holidays/index.html",
+    "href": "news/posts/2023-12-12-holidays/index.html",
+    "title": "Greetings from the holiday fair",
     "section": "",
-    "text": "It’s about time to catch up with the lab’s developments over the last year!\nYou blink twice and suddenly more than 15 months have gone by without a lab news entry. About time to catch up!\n\nOur lab has grown and in addition to Philipp, Lennart and Ben who were here at the last entry we are very happy that four fantastic members have joined the lab! Xin, Shuang, Yu-Hao and Lena started sometime over the last year and tackle tumor immunology questions. In addition, we hosted our first MSc student — Marjenna — who successfully defended in September, belated congratulations!\nBoth Lennart and Yu-hao have been admitted to the Berlin School of Integrative Oncology (and recently presented their projects at the annual meeting).\nWe have finally started working on all facets of our toolkit — computational, in-vitro and in-vivo assays — and it has been wonderful to shift from largely thinking about logistics to discussing science.\n\nWe are greatly looking forward to the science we’re working on and sharing it in the time to come!"
+    "text": "Most of us attended the holiday fair last week — we wish you happy holidays!"
   },
   {
-    "objectID": "news/posts/2022-06-01-philipp-lennart/index.html",
-    "href": "news/posts/2022-06-01-philipp-lennart/index.html",
-    "title": "Lennart and Philipp are joining the lab",
+    "objectID": "news/posts/2022-09-25-nat-covid/index.html",
+    "href": "news/posts/2022-09-25-nat-covid/index.html",
+    "title": "Our paper on APOE in COVID-19 is published in Nature",
     "section": "",
-    "text": "Three makes a team — our lab is growing.\nWe are really excited about Lennart and Philipp starting in the lab as PhD student and postdoc, respectively. Both Lennart and Philipp combine wet and dry lab approaches in their work and now look forward to applying them to tumor immunological questions. Welcome to the lab!!"
+    "text": "We are over the moon that our paper on the role of APOE germline variants in COVID-19 is out in Nature!\nWe had just published our findings on the role of APOE variants in modulating anti-tumor immunity in melanoma when the COVID-19 pandemic hit hard. It quickly became apparent that outcomes of individuals with COVID-19 were very heterogeneous: while some remained completely asymptomatic, others developed critical or even fatal disease. Immune hyperactivation seemed to contribute to interindividual variability, but to this day it remains insufficiently understood why people with COVID-19 fare so differently.\nGiven our findings in melanoma, we started wondering whether APOE might also play a role in modulating response to SARS-CoV-2 infection. Luckily, the lab of Ralph Baric derived a variant of SARS-CoV-2 that efficiently infected mice, and even more luckily, the lab of Charlie Rice produced and provided that virus for us to do in-vivo experiments. The differences between mice with different APOE alleles were striking: While all male APOE4 mice succumbed to SARS-CoV-2 infection, around 70% of male APOE3 mice survived. Using flow cytometry, bulk RNA-seq and single-cell RNA-seq, we found that initial adaptive immune responses in APOE2 and APOE4 mice were blunted relative to APOE3 mice, with later antiviral immunity diverging between APOE2 and APOE4. Additionally, we found that APOE directly interfered with SARS-CoV-2 infection. These data indicate that APOE genotype impacts COVID-19 outcome through at least two mechanisms: modulation of antiviral immunity and modulation of viral infection. Consistent with our mouse data, APOE genotype was significantly associated with survival in 13,000 COVID-19 patients of the UK Biobank.\nYou can read more in the full paper. Thank you to all co-authors for incredible teamwork, to all participants of the UK Biobank, and to our funders for making this work possible!"
   },
   {
-    "objectID": "news/posts/2020-05-25-nat-med/index.html",
-    "href": "news/posts/2020-05-25-nat-med/index.html",
-    "title": "Our paper on the impact of APOE germline variants on tumor immunity is out in Nature Medicine",
+    "objectID": "news/posts/2022-01-01-max-eder/index.html",
+    "href": "news/posts/2022-01-01-max-eder/index.html",
+    "title": "Our group is starting at Charité supported by a Max Eder grant from the German Cancer Aid",
     "section": "",
-    "text": "We are very excited that our paper on the role of germline variants in the APOE gene is out in Nature Medicine today! 🎉🥳\nIt remains poorly understood why some patients mount effective anti-tumor immune responses that can be re-invigorated with immunotherapy while others don’t. Our work provides evidence that variants in the genes we are born with (the germline genetic make-up) modulate anti-tumor immunity. In this paper, we show that highly common variants of APOE, present in ~40% of the general population and known as the biggest risk factor for Alzheimer’s disease, significantly modulate anti-tumor immunity in melanoma.\nHuge thank you to everyone involved!"
+    "text": "New beginnings — lab start supported by a German Cancer Aid Max Eder grant.\nWe are thrilled to be opening the doors of the Systems Cancer Immunology Lab at Charité in Berlin, Germany! Thanks to a Max-Eder grant by the German Cancer Aid we will focus our efforts on extending the benefit of immunotherapy to more cancer patients. Please get in touch if you are interested in our work and would like to join our group or just chat about science!"
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Yu-hao to attend the 75th Lindau Nobel Laureate Meeting\n\n\nYu-hao to attend the 75th Lindau Nobel Laureate Meeting\n\n\n\n\n\nJuly 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nBen to speak at the joint Berlin-Jerusalem Symposium\n\n\nWe’re delighted that our paper on LXR agonism conditioning T cells to be more effective in anti-tumor immunity is out in JEM.\n\n\n\n\n\nJune 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nOur paper on LXR agonism in T cell activation is out in JEM!\n\n\nWe’re delighted that our paper on LXR agonism conditioning T cells to be more effective in anti-tumor immunity is out in JEM.\n\n\n\n\n\nFebruary 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nLab updates and our first paper!\n\n\nMany good news over the past few months, including our first paper, now published in Nucleic Acids Research!\n\n\n\n\n\nMay 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCongrats to Olivia’s MSc defense!\n\n\nOlivia passed her MSc defense with flying colors 🎉🍾\n\n\n\n\n\nSeptember 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nGreetings from the holiday fair\n\n\nMost of us attended the holiday fair last week — we wish you happy holidays!\n\n\n\n\n\nDecember 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHigh time to catch up with lab news\n\n\nIt’s about time to catch up with the lab’s developments over the last year!\n\n\n\n\n\nDecember 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nOur paper on APOE in COVID-19 is published in Nature\n\n\nWe are over the moon that our paper on the role of APOE germline variants in COVID-19 is out in Nature!\n\n\n\n\n\nSeptember 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nLennart and Philipp are joining the lab\n\n\nThree makes a team — our lab is growing.\n\n\n\n\n\nJune 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nOur group is starting at Charité supported by a Max Eder grant from the German Cancer Aid\n\n\nNew beginnings — lab start supported by a German Cancer Aid Max Eder grant.\n\n\n\n\n\nJanuary 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nOur paper on the impact of APOE germline variants on tumor immunity is out in Nature Medicine\n\n\nWe are very excited that our paper on the role of germline variants in the APOE gene is out in Nature Medicine today!\n\n\n\n\n\nMay 25, 2020\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#laboratory-of-systems-cancer-immunology",
+    "href": "index.html#laboratory-of-systems-cancer-immunology",
+    "title": "Ostendorf Lab",
+    "section": "Laboratory of Systems Cancer Immunology",
+    "text": "Laboratory of Systems Cancer Immunology\nWelcome to the digital home of the Systems Cancer Immunology (SCI) Lab! We investigate how cancer and immune cells interact. We combine computational systems biology with experimental tumor immunology approaches to tackle pressing mechanistic questions with human translational potential. Some of the questions we pursue are:\n\nWhy do some cancer patients show dramatic immunotherapy responses while others do not?\nHow do germline genetics impact anti-tumor immunity?\nCan modern high dimensional single-cell technologies help unravel the complexity of the tumor immune microenvironment?\n\nWe are a young enthusiastic group based at Charité in Berlin, Germany. We are affiliated with the Berlin Institute for Medical Systems Biology of the Max Delbrück Center, and we are part of the Berlin School of Integrative Oncology where students get exposed to and contribute to the exciting Berlin Oncology community. Take a look around and please get in touch if you are interested in our work!"
+  },
+  {
+    "objectID": "index.html#support",
+    "href": "index.html#support",
+    "title": "Ostendorf Lab",
+    "section": "Support",
+    "text": "Support\nWe are grateful for research support from:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Augustenburger Platz 1, Forum 4   13353 Berlin, Germany\n\n\n   ostendorflab.org\n\n\n   benjaminostendorf\n\n\n  \n    Name\n    \n  \n  \n    Email\n    \n  \n  \n    Message\n    \n  \n  Send message"
   },
   {
     "objectID": "join.html",
@@ -210,67 +245,39 @@
     "text": "Join us!\nWe are always looking for enthusiastic lab members at several levels (PhD and MD students, postdocs, technicians). If you are interested in our work and are passionate about biomedical research we look forward to hearing from you! Please email Ben with a cover letter outlining why you would like to join our group and what your research interests are, and your CV."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "news/posts/2020-05-25-nat-med/index.html",
+    "href": "news/posts/2020-05-25-nat-med/index.html",
+    "title": "Our paper on the impact of APOE germline variants on tumor immunity is out in Nature Medicine",
     "section": "",
-    "text": "Augustenburger Platz 1, Forum 4   13353 Berlin, Germany\n\n\n   ostendorflab.org\n\n\n   benjaminostendorf\n\n\n  \n    Name\n    \n  \n  \n    Email\n    \n  \n  \n    Message\n    \n  \n  Send message"
+    "text": "We are very excited that our paper on the role of germline variants in the APOE gene is out in Nature Medicine today! 🎉🥳\nIt remains poorly understood why some patients mount effective anti-tumor immune responses that can be re-invigorated with immunotherapy while others don’t. Our work provides evidence that variants in the genes we are born with (the germline genetic make-up) modulate anti-tumor immunity. In this paper, we show that highly common variants of APOE, present in ~40% of the general population and known as the biggest risk factor for Alzheimer’s disease, significantly modulate anti-tumor immunity in melanoma.\nHuge thank you to everyone involved!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "news/posts/2022-06-01-philipp-lennart/index.html",
+    "href": "news/posts/2022-06-01-philipp-lennart/index.html",
+    "title": "Lennart and Philipp are joining the lab",
     "section": "",
-    "text": "About this site"
+    "text": "Three makes a team — our lab is growing.\nWe are really excited about Lennart and Philipp starting in the lab as PhD student and postdoc, respectively. Both Lennart and Philipp combine wet and dry lab approaches in their work and now look forward to applying them to tumor immunological questions. Welcome to the lab!!"
   },
   {
-    "objectID": "index.html#laboratory-of-systems-cancer-immunology",
-    "href": "index.html#laboratory-of-systems-cancer-immunology",
-    "title": "Ostendorf Lab",
-    "section": "Laboratory of Systems Cancer Immunology",
-    "text": "Laboratory of Systems Cancer Immunology\nWelcome to the digital home of the Systems Cancer Immunology (SCI) Lab! We investigate how cancer and immune cells interact. We combine computational systems biology with experimental tumor immunology approaches to tackle pressing mechanistic questions with human translational potential. Some of the questions we pursue are:\n\nWhy do some cancer patients show dramatic immunotherapy responses while others do not?\nHow do germline genetics impact anti-tumor immunity?\nCan modern high dimensional single-cell technologies help unravel the complexity of the tumor immune microenvironment?\n\nWe are a young enthusiastic group based at Charité in Berlin, Germany. We are affiliated with the Berlin Institute for Medical Systems Biology of the Max Delbrück Center, and we are part of the Berlin School of Integrative Oncology where students get exposed to and contribute to the exciting Berlin Oncology community. Take a look around and please get in touch if you are interested in our work!"
-  },
-  {
-    "objectID": "index.html#support",
-    "href": "index.html#support",
-    "title": "Ostendorf Lab",
-    "section": "Support",
-    "text": "Support\nWe are grateful for research support from:"
-  },
-  {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "News",
+    "objectID": "news/posts/2023-12-05-developments/index.html",
+    "href": "news/posts/2023-12-05-developments/index.html",
+    "title": "High time to catch up with lab news",
     "section": "",
-    "text": "Yu-hao to attend the 75th Lindau Nobel Laureate Meeting\n\n\nYu-hao to attend the 75th Lindau Nobel Laureate Meeting\n\n\n\n\n\nJuly 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nOur paper on LXR agonism in T cell activation is out in JEM!\n\n\nWe’re delighted that our paper on LXR agonism conditioning T cells to be more effective in anti-tumor immunity is out in JEM.\n\n\n\n\n\nFebruary 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nLab updates and our first paper!\n\n\nMany good news over the past few months, including our first paper, now published in Nucleic Acids Research!\n\n\n\n\n\nMay 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCongrats to Olivia’s MSc defense!\n\n\nOlivia passed her MSc defense with flying colors 🎉🍾\n\n\n\n\n\nSeptember 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nGreetings from the holiday fair\n\n\nMost of us attended the holiday fair last week — we wish you happy holidays!\n\n\n\n\n\nDecember 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHigh time to catch up with lab news\n\n\nIt’s about time to catch up with the lab’s developments over the last year!\n\n\n\n\n\nDecember 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nOur paper on APOE in COVID-19 is published in Nature\n\n\nWe are over the moon that our paper on the role of APOE germline variants in COVID-19 is out in Nature!\n\n\n\n\n\nSeptember 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nLennart and Philipp are joining the lab\n\n\nThree makes a team — our lab is growing.\n\n\n\n\n\nJune 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nOur group is starting at Charité supported by a Max Eder grant from the German Cancer Aid\n\n\nNew beginnings — lab start supported by a German Cancer Aid Max Eder grant.\n\n\n\n\n\nJanuary 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nOur paper on the impact of APOE germline variants on tumor immunity is out in Nature Medicine\n\n\nWe are very excited that our paper on the role of germline variants in the APOE gene is out in Nature Medicine today!\n\n\n\n\n\nMay 25, 2020\n\n\n\n\n\nNo matching items"
+    "text": "It’s about time to catch up with the lab’s developments over the last year!\nYou blink twice and suddenly more than 15 months have gone by without a lab news entry. About time to catch up!\n\nOur lab has grown and in addition to Philipp, Lennart and Ben who were here at the last entry we are very happy that four fantastic members have joined the lab! Xin, Shuang, Yu-Hao and Lena started sometime over the last year and tackle tumor immunology questions. In addition, we hosted our first MSc student — Marjenna — who successfully defended in September, belated congratulations!\nBoth Lennart and Yu-hao have been admitted to the Berlin School of Integrative Oncology (and recently presented their projects at the annual meeting).\nWe have finally started working on all facets of our toolkit — computational, in-vitro and in-vivo assays — and it has been wonderful to shift from largely thinking about logistics to discussing science.\n\nWe are greatly looking forward to the science we’re working on and sharing it in the time to come!"
   },
   {
-    "objectID": "news/posts/2022-01-01-max-eder/index.html",
-    "href": "news/posts/2022-01-01-max-eder/index.html",
-    "title": "Our group is starting at Charité supported by a Max Eder grant from the German Cancer Aid",
+    "objectID": "news/posts/2024-09-24-olivia/index.html",
+    "href": "news/posts/2024-09-24-olivia/index.html",
+    "title": "Congrats to Olivia’s MSc defense!",
     "section": "",
-    "text": "New beginnings — lab start supported by a German Cancer Aid Max Eder grant.\nWe are thrilled to be opening the doors of the Systems Cancer Immunology Lab at Charité in Berlin, Germany! Thanks to a Max-Eder grant by the German Cancer Aid we will focus our efforts on extending the benefit of immunotherapy to more cancer patients. Please get in touch if you are interested in our work and would like to join our group or just chat about science!"
+    "text": "Olivia passed her MSc defense with flying colors 🎉🍾 All the best for your future scientific journey, it was a pleasure to have you in the lab!"
   },
   {
-    "objectID": "news/posts/2022-09-25-nat-covid/index.html",
-    "href": "news/posts/2022-09-25-nat-covid/index.html",
-    "title": "Our paper on APOE in COVID-19 is published in Nature",
+    "objectID": "news/posts/2026-02-10-jem/index.html",
+    "href": "news/posts/2026-02-10-jem/index.html",
+    "title": "Our paper on LXR agonism in T cell activation is out in JEM!",
     "section": "",
-    "text": "We are over the moon that our paper on the role of APOE germline variants in COVID-19 is out in Nature!\nWe had just published our findings on the role of APOE variants in modulating anti-tumor immunity in melanoma when the COVID-19 pandemic hit hard. It quickly became apparent that outcomes of individuals with COVID-19 were very heterogeneous: while some remained completely asymptomatic, others developed critical or even fatal disease. Immune hyperactivation seemed to contribute to interindividual variability, but to this day it remains insufficiently understood why people with COVID-19 fare so differently.\nGiven our findings in melanoma, we started wondering whether APOE might also play a role in modulating response to SARS-CoV-2 infection. Luckily, the lab of Ralph Baric derived a variant of SARS-CoV-2 that efficiently infected mice, and even more luckily, the lab of Charlie Rice produced and provided that virus for us to do in-vivo experiments. The differences between mice with different APOE alleles were striking: While all male APOE4 mice succumbed to SARS-CoV-2 infection, around 70% of male APOE3 mice survived. Using flow cytometry, bulk RNA-seq and single-cell RNA-seq, we found that initial adaptive immune responses in APOE2 and APOE4 mice were blunted relative to APOE3 mice, with later antiviral immunity diverging between APOE2 and APOE4. Additionally, we found that APOE directly interfered with SARS-CoV-2 infection. These data indicate that APOE genotype impacts COVID-19 outcome through at least two mechanisms: modulation of antiviral immunity and modulation of viral infection. Consistent with our mouse data, APOE genotype was significantly associated with survival in 13,000 COVID-19 patients of the UK Biobank.\nYou can read more in the full paper. Thank you to all co-authors for incredible teamwork, to all participants of the UK Biobank, and to our funders for making this work possible!"
-  },
-  {
-    "objectID": "news/posts/2023-12-12-holidays/index.html",
-    "href": "news/posts/2023-12-12-holidays/index.html",
-    "title": "Greetings from the holiday fair",
-    "section": "",
-    "text": "Most of us attended the holiday fair last week — we wish you happy holidays!"
-  },
-  {
-    "objectID": "news/posts/2025-05-24-updates/index.html",
-    "href": "news/posts/2025-05-24-updates/index.html",
-    "title": "Lab updates and our first paper!",
-    "section": "",
-    "text": "Many good news over the past few months, including our first paper, now published in Nucleic Acids Research! 🎉\nIt’s been a while, and so many news have accumulated over the past few months:\n\nWe did our first lab retreat back in last fall and had a blast canoeing the Spree\nSvenja and Beke joined the lab, welcome!\nBen gave a few talks, including at the 22nd International AEK Cancer Congress here in Berlin back in March\nLennart presented his project at Tumor Immunology Meets Oncology XIX 2025 and won a prize for his talk, congrats!\nAs a major milestone, the first paper that started here in the lab is published 🎉🙌! Our computational tool BEscreen came out in Nucleic Acids Research a few days ago. We’ll write a whole post to describe in more detail what BEscreen is about. Huge congratulations to Philipp for spearheading this project and also to Shuang!"
+    "text": "We’re thrilled that our paper on the role of Liver-X-receptors in T cell effector function is out today in JEM. This was a project that started in Sohail Tavazoie’s lab in New York and that we completed in Berlin. It shows that pharmacological activation of LXRs puts T cells in a state that makes them more ready to adopt effector functions upon activation — an important trait in fighting cancer. Consistently, LXR agonism was efficient in driving anti-tumor immunity. You can read more about it here."
   },
   {
     "objectID": "news/posts/2026-07-01-lindau/index.html",
