@@ -289,10 +289,19 @@ body, .navbar, h1, h2, h3, h4, h5, h6, p, a, li {
 #listing-current-members img.thumbnail-image {
   border-radius: 50%;
   object-fit: cover;
-  width: 175px !important;
-  height: 175px !important;
+  width: 160px !important;
+  height: 160px !important;
   display: block;
-  margin: 1rem auto 0;
+  margin: 0.75rem auto 0;
+}
+
+/* People listing — tighten spacing between members */
+#listing-current-members .list.grid {
+  gap: 0.9rem 1.5rem;
+}
+
+#listing-current-members .card-body {
+  padding-bottom: 0.5rem;
 }
 
 /* Education list — matches wowchemy ul-edu layout */
