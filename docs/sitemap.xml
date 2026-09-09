@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.ostendorflab.org/tools.html</loc>
-    <lastmod>2026-07-06T19:19:07.000Z</lastmod>
+    <lastmod>2026-07-06T19:19:07.359Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/research/resistance/index.html</loc>
-    <lastmod>2026-07-05T15:38:49.000Z</lastmod>
+    <lastmod>2026-07-05T15:38:49.217Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/research/germline-variation/index.html</loc>
@@ -14,130 +14,134 @@
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/yuhao-he/index.html</loc>
-    <lastmod>2026-07-13T15:33:36.941Z</lastmod>
+    <lastmod>2026-07-13T15:33:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/svenja-ziegler/index.html</loc>
-    <lastmod>2026-07-13T15:33:36.941Z</lastmod>
+    <lastmod>2026-07-13T15:33:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/shuang-liu/index.html</loc>
-    <lastmod>2026-07-13T15:33:36.940Z</lastmod>
+    <lastmod>2026-07-13T15:33:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/lennart-heere/index.html</loc>
-    <lastmod>2026-07-13T15:33:36.940Z</lastmod>
+    <lastmod>2026-07-13T15:33:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/laura-enke/index.html</loc>
-    <lastmod>2026-07-13T15:29:59.368Z</lastmod>
+    <lastmod>2026-07-13T15:29:59.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/ben-ostendorf/index.html</loc>
-    <lastmod>2026-07-13T15:29:59.368Z</lastmod>
+    <lastmod>2026-07-13T15:29:59.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ostendorflab.org/people.html</loc>
-    <lastmod>2026-07-13T15:29:15.728Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2026-06-15-jerusalem/index.html</loc>
-    <lastmod>2026-07-07T14:49:38.278Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2025-05-24-updates/index.html</loc>
-    <lastmod>2026-07-05T14:55:29.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2023-12-12-holidays/index.html</loc>
-    <lastmod>2026-07-05T14:55:17.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2022-09-25-nat-covid/index.html</loc>
-    <lastmod>2026-07-05T14:55:04.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2022-01-01-max-eder/index.html</loc>
-    <lastmod>2026-07-06T08:01:28.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/index.html</loc>
-    <lastmod>2026-07-05T15:40:02.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/index.html</loc>
-    <lastmod>2026-08-21T13:06:16.304Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/about.html</loc>
-    <lastmod>2026-08-13T12:50:31.692Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/contact.html</loc>
-    <lastmod>2026-07-05T21:18:19.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/join.html</loc>
-    <lastmod>2026-07-05T15:50:17.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2020-05-25-nat-med/index.html</loc>
-    <lastmod>2026-07-05T14:54:38.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2022-06-01-philipp-lennart/index.html</loc>
-    <lastmod>2026-07-05T14:54:49.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2023-12-05-developments/index.html</loc>
-    <lastmod>2026-07-05T14:55:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2024-09-24-olivia/index.html</loc>
-    <lastmod>2026-07-05T14:55:20.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ostendorflab.org/news/posts/2026-02-10-jem/index.html</loc>
-    <lastmod>2026-07-05T14:55:37.000Z</lastmod>
+    <loc>https://www.ostendorflab.org/people/current/antje-richter/index.html</loc>
+    <lastmod>2026-09-09T06:03:46.439Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/news/posts/2026-07-01-lindau/index.html</loc>
-    <lastmod>2026-07-07T14:43:46.268Z</lastmod>
+    <lastmod>2026-07-07T14:43:46.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2026-02-10-jem/index.html</loc>
+    <lastmod>2026-07-05T14:55:37.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2024-09-24-olivia/index.html</loc>
+    <lastmod>2026-07-05T14:55:20.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2023-12-05-developments/index.html</loc>
+    <lastmod>2026-07-05T14:55:13.992Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2022-06-01-philipp-lennart/index.html</loc>
+    <lastmod>2026-07-05T14:54:49.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2020-05-25-nat-med/index.html</loc>
+    <lastmod>2026-07-05T14:54:38.341Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/join.html</loc>
+    <lastmod>2026-07-05T15:50:17.880Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/contact.html</loc>
+    <lastmod>2026-07-05T21:18:19.428Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/about.html</loc>
+    <lastmod>2026-08-13T12:50:31.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/index.html</loc>
+    <lastmod>2026-08-21T13:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/index.html</loc>
+    <lastmod>2026-07-05T15:40:02.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2022-01-01-max-eder/index.html</loc>
+    <lastmod>2026-07-06T08:01:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2022-09-25-nat-covid/index.html</loc>
+    <lastmod>2026-07-05T14:55:04.067Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2023-12-12-holidays/index.html</loc>
+    <lastmod>2026-07-05T14:55:17.159Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2025-05-24-updates/index.html</loc>
+    <lastmod>2026-07-05T14:55:29.987Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/news/posts/2026-06-15-jerusalem/index.html</loc>
+    <lastmod>2026-07-07T14:49:38.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ostendorflab.org/people.html</loc>
+    <lastmod>2026-07-13T15:29:15.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/beke-neumann/index.html</loc>
-    <lastmod>2026-07-13T15:33:36.939Z</lastmod>
+    <lastmod>2026-07-13T15:33:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/elisa-schumann/index.html</loc>
-    <lastmod>2026-07-13T15:29:59.368Z</lastmod>
+    <lastmod>2026-07-13T15:29:59.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/lena-leu/index.html</loc>
-    <lastmod>2026-07-13T15:33:36.940Z</lastmod>
+    <lastmod>2026-07-13T15:33:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/philipp-schneider/index.html</loc>
-    <lastmod>2026-07-13T15:29:59.369Z</lastmod>
+    <lastmod>2026-07-13T15:29:59.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/sophia-casares/index.html</loc>
-    <lastmod>2026-07-13T15:33:36.941Z</lastmod>
+    <lastmod>2026-07-13T15:33:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/people/current/xin-li/index.html</loc>
-    <lastmod>2026-07-13T15:33:36.941Z</lastmod>
+    <lastmod>2026-07-13T15:33:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/publications.html</loc>
-    <lastmod>2026-07-07T15:14:34.386Z</lastmod>
+    <lastmod>2026-07-07T15:14:34.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/research/index.html</loc>
-    <lastmod>2026-07-05T15:36:42.000Z</lastmod>
+    <lastmod>2026-07-05T15:36:42.845Z</lastmod>
   </url>
   <url>
     <loc>https://www.ostendorflab.org/research/singlecell/index.html</loc>
-    <lastmod>2026-07-05T15:38:55.000Z</lastmod>
+    <lastmod>2026-07-05T15:38:55.345Z</lastmod>
   </url>
 </urlset>
